@@ -1,5 +1,5 @@
 # Piscine Python for datascience
-### _Introduction to Data Science using Python and libraries like Numpy, Pandas, Matplotlib_
+### _Introduction to Python libraries for Data Science like Numpy, Pandas, Matplotlib_
 
 ## Day 00 - Starting
 _The basics of the Python Programming Language._
